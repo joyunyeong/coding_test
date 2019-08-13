@@ -5,7 +5,7 @@ package level2.if문;
 
 import java.util.Scanner;
 
-public class 시험성적_9498 {
+public class 시험성적_9498 { 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int score = sc.nextInt();

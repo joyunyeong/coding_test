@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class 두_수_비교하기_1330 {
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in); // 문제상으로 정수 입력받기
+		Scanner sc = new Scanner(System.in); // 문제상으로 정수 입력받기 
 		
 		int A = sc.nextInt();
 		int B = sc.nextInt();

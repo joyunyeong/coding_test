@@ -11,7 +11,7 @@ package level2.if문;
 import java.util.Scanner;
 
 public class 알람시계_2884 {
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		Scanner sc = new Scanner(System.in);
 		int H,M = sc.nextInt();
 	}
